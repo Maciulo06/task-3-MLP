@@ -2,7 +2,7 @@
 
 Projekt został przygotowany w ramach zadania dotyczącego implementacji sieci neuronowej w bibliotece PyTorch dla zbioru CIFAR-10.
 
-## Cel zadania
+## Cel zadania MLP
 
 Celem projektu było zbudowanie i przetestowanie modelu sieci neuronowej do klasyfikacji obrazów ze zbioru CIFAR-10 bez korzystania z gotowych modeli pretrained.  
 Ze względu na ostatnią cyfrę indeksu 0 w projekcie zaimplementowano sieć typu MLP (Multilayer Perceptron).
