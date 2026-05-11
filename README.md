@@ -84,6 +84,6 @@ Projekt korzysta między innymi z bibliotek:
 - scikit-learn
 - jupyter
 
-## Autor
+## Autor - Maciej Kiendyś
 
 Projekt wykonany w ramach zadania **Task_3**.
